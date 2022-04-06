@@ -1,24 +1,16 @@
 {
   "name": "bootstrap",
   "version": "1.0.0",
-  "description": "Learning bootstrap",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sumanth-kasha/bootstrap.git"
-  },
-  "author": "sumanth kasha",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sumanth-kasha/bootstrap/issues"
-  },
-  "homepage": "https://github.com/sumanth-kasha/bootstrap#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.3.0"
   }
 }
